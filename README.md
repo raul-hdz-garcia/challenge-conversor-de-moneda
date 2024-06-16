@@ -1,7 +1,7 @@
-# challenge-conversor-de-moneda
-**Challenge conversor de moneda de Alura Latam**
+# Challenge Conversor de Moneda de Alura Latam<br/>
+Conversiones de monedas consumiendo la API https://www.exchangerate-api.com/
 
-Hola! Así es como funciona el conversor.
+¡Hola! Así es como funciona el conversor.
 
 Al iniciar el programa aparece el menú de inicio.
 
@@ -37,4 +37,4 @@ En caso de ingresar algún valor no válido, se muestra un mensaje de error y se
 ![image](https://github.com/raul-hdz-garcia/challenge-conversor-de-moneda/assets/157054531/b2cc6ce9-98b7-477d-8818-0f5ce01d2684)
 ![image](https://github.com/raul-hdz-garcia/challenge-conversor-de-moneda/assets/157054531/756a03a2-214a-4d2a-84f6-31c6b6ad756e)
 
-Saludos!
+Eso es todo. ¡Hasta luego!
